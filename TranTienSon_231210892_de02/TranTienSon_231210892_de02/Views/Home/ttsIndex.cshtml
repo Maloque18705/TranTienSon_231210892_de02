@@ -2,7 +2,44 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container mt-5">
+    <div class="text-center mb-5">
+        <h1 class="display-4 fw-bold text-primary">Welcome to TranTienSon_231210892_de02</h1>
+        <p class="lead text-muted">
+            Explore and manage products through the <strong>TtsCatalog</strong> module using CRUD operations.
+        </p>
+        <a asp-controller="TtsCatalogs" asp-action="Index" class="btn btn-primary btn-lg shadow-sm">
+            Go to Catalog
+        </a>
+    </div>
+
+    <div class="row text-center">
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-body">
+                    <h5 class="card-title text-success fw-bold">📦 Manage Products</h5>
+                    <p class="card-text">Add, edit, or remove product categories easily in TtsCatalog.</p>
+                    <a asp-controller="TtsCatalogs" asp-action="Create" class="btn btn-outline-success">Add New</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-body">
+                    <h5 class="card-title text-info fw-bold">📊 View Data</h5>
+                    <p class="card-text">Browse your product catalog and view details in real-time.</p>
+                    <a asp-controller="TtsCatalogs" asp-action="Index" class="btn btn-outline-info">View Catalog</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-body">
+                    <h5 class="card-title text-warning fw-bold">⚙️ System Info</h5>
+                    <p class="card-text">Learn more about this ASP.NET Core MVC project setup and features.</p>
+                    <a asp-controller="ttsHome" asp-action="ttsAbout" class="btn btn-outline-warning">About</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>

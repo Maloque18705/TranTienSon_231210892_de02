@@ -1,59 +1,74 @@
 ﻿@model IEnumerable<TranTienSon_231210892_de02.Models.TtsCatalog>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "TtsCatalog List";
 }
 
-<h1>Index</h1>
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="fw-bold text-primary mb-0">@ViewData["Title"]</h2>
+        <a asp-action="Create" class="btn btn-success shadow-sm">
+            <i class="bi bi-plus-circle"></i> Create New
+        </a>
+    </div>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.TtsCateName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TtsCatePrice)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TtsCateQty)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TtsPicture)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TtsCateActive)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.TtsCateName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TtsCatePrice)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TtsCateQty)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TtsPicture)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TtsCateActive)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.TtsId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.TtsId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.TtsId">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+    <div class="card shadow-sm border-0">
+        <div class="card-body p-0">
+            <table class="table table-striped table-hover align-middle mb-0">
+                <thead class="table-primary">
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.TtsCateName)</th>
+                        <th>@Html.DisplayNameFor(model => model.TtsCatePrice)</th>
+                        <th>@Html.DisplayNameFor(model => model.TtsCateQty)</th>
+                        <th>@Html.DisplayNameFor(model => model.TtsPicture)</th>
+                        <th>@Html.DisplayNameFor(model => model.TtsCateActive)</th>
+                        <th class="text-center">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.TtsCateName</td>
+                            <td>@string.Format("{0:N0} ₫", item.TtsCatePrice)</td>
+                            <td>@item.TtsCateQty</td>
+                            <td>
+                                @if (!string.IsNullOrEmpty(item.TtsPicture))
+                                {
+                                    <img src="@item.TtsPicture" alt="Image" class="img-thumbnail" style="width:60px; height:60px; object-fit:cover;" />
+                                }
+                                else
+                                {
+                                    <span class="text-muted fst-italic">No image</span>
+                                }
+                            </td>
+                            <td>
+                                @if (item.TtsCateActive)
+                                {
+                                    <span class="badge bg-success px-3 py-2">Active</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-danger px-3 py-2">Inactive</span>
+                                }
+                            </td>
+                            <td class="text-center">
+                                <div class="btn-group btn-group-sm">
+                                    <a asp-action="Edit" asp-route-id="@item.TtsId" class="btn btn-outline-primary">
+                                        <i class="bi bi-pencil-square"></i> Chỉnh sửa
+                                    </a>
+                                    <a asp-action="Details" asp-route-id="@item.TtsId" class="btn btn-outline-info">
+                                        <i class="bi bi-eye"></i> Chi tiết
+                                    </a>
+                                    <a asp-action="Delete" asp-route-id="@item.TtsId" class="btn btn-outline-danger">
+                                        <i class="bi bi-trash"></i> Xóa
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

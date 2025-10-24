@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TranTienSon_231210892_de02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4efa3311f99d06016db4a9cb25b0af0b74acd129")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b4bcbe207c02e3fb40ee9f873de79551de7c097")]
 [assembly: System.Reflection.AssemblyProductAttribute("TranTienSon_231210892_de02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TranTienSon_231210892_de02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
