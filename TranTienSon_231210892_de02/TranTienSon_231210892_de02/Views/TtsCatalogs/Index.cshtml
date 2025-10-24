@@ -1,0 +1,59 @@
+﻿@model IEnumerable<TranTienSon_231210892_de02.Models.TtsCatalog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TtsCateName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TtsCatePrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TtsCateQty)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TtsPicture)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TtsCateActive)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TtsCateName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TtsCatePrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TtsCateQty)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TtsPicture)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TtsCateActive)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.TtsId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.TtsId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.TtsId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

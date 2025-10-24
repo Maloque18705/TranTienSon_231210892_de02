@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|d:\\coding\\trantienson_231210892_de02\\trantienson_231210892_de02\\trantienson_231210892_de02\\views\\shared\\_tts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|solutionrelative:trantienson_231210892_de02\\views\\shared\\_tts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|d:\\coding\\trantienson_231210892_de02\\trantienson_231210892_de02\\trantienson_231210892_de02\\views\\shared\\_tts.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|solutionrelative:trantienson_231210892_de02\\views\\shared\\_tts.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|d:\\coding\\trantienson_231210892_de02\\trantienson_231210892_de02\\trantienson_231210892_de02\\views\\ttshome\\ttsindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|solutionrelative:trantienson_231210892_de02\\views\\ttshome\\ttsindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|d:\\coding\\trantienson_231210892_de02\\trantienson_231210892_de02\\trantienson_231210892_de02\\models\\ttscatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|solutionrelative:trantienson_231210892_de02\\models\\ttscatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|d:\\coding\\trantienson_231210892_de02\\trantienson_231210892_de02\\trantienson_231210892_de02\\controllers\\ttscatalogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|solutionrelative:trantienson_231210892_de02\\controllers\\ttscatalogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|d:\\coding\\trantienson_231210892_de02\\trantienson_231210892_de02\\trantienson_231210892_de02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|solutionrelative:trantienson_231210892_de02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|d:\\coding\\trantienson_231210892_de02\\trantienson_231210892_de02\\trantienson_231210892_de02\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|solutionrelative:trantienson_231210892_de02\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|d:\\coding\\trantienson_231210892_de02\\trantienson_231210892_de02\\trantienson_231210892_de02\\controllers\\ttshomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|solutionrelative:trantienson_231210892_de02\\controllers\\ttshomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|d:\\coding\\trantienson_231210892_de02\\trantienson_231210892_de02\\trantienson_231210892_de02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|solutionrelative:trantienson_231210892_de02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|d:\\coding\\trantienson_231210892_de02\\trantienson_231210892_de02\\trantienson_231210892_de02\\views\\home\\ttsindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|solutionrelative:trantienson_231210892_de02\\views\\home\\ttsindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|d:\\coding\\trantienson_231210892_de02\\trantienson_231210892_de02\\trantienson_231210892_de02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|solutionrelative:trantienson_231210892_de02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|d:\\coding\\trantienson_231210892_de02\\trantienson_231210892_de02\\trantienson_231210892_de02\\views\\home\\ttsabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{122F3B46-F75F-4031-95B6-E47F8DB50821}|TranTienSon_231210892_de02\\TranTienSon_231210892_de02.csproj|solutionrelative:trantienson_231210892_de02\\views\\home\\ttsabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ttsHomeController.cs",
+              "DocumentMoniker": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Controllers\\ttsHomeController.cs",
+              "RelativeDocumentMoniker": "TranTienSon_231210892_de02\\Controllers\\ttsHomeController.cs",
+              "ToolTip": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Controllers\\ttsHomeController.cs",
+              "RelativeToolTip": "TranTienSon_231210892_de02\\Controllers\\ttsHomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:08:09.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Tts.cshtml",
+              "DocumentMoniker": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Views\\Shared\\_Tts.cshtml",
+              "RelativeDocumentMoniker": "TranTienSon_231210892_de02\\Views\\Shared\\_Tts.cshtml",
+              "ToolTip": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Views\\Shared\\_Tts.cshtml",
+              "RelativeToolTip": "TranTienSon_231210892_de02\\Views\\Shared\\_Tts.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:07:12.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TtsCatalog.cs",
+              "DocumentMoniker": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Models\\TtsCatalog.cs",
+              "RelativeDocumentMoniker": "TranTienSon_231210892_de02\\Models\\TtsCatalog.cs",
+              "ToolTip": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Models\\TtsCatalog.cs",
+              "RelativeToolTip": "TranTienSon_231210892_de02\\Models\\TtsCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:40:17.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TtsCatalogsController.cs",
+              "DocumentMoniker": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Controllers\\TtsCatalogsController.cs",
+              "RelativeDocumentMoniker": "TranTienSon_231210892_de02\\Controllers\\TtsCatalogsController.cs",
+              "ToolTip": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Controllers\\TtsCatalogsController.cs",
+              "RelativeToolTip": "TranTienSon_231210892_de02\\Controllers\\TtsCatalogsController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:03:41.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\appsettings.json",
+              "RelativeDocumentMoniker": "TranTienSon_231210892_de02\\appsettings.json",
+              "ToolTip": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\appsettings.json",
+              "RelativeToolTip": "TranTienSon_231210892_de02\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T04:09:06.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ttsIndex.cshtml",
+              "DocumentMoniker": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Views\\ttsHome\\ttsIndex.cshtml",
+              "RelativeDocumentMoniker": "TranTienSon_231210892_de02\\Views\\ttsHome\\ttsIndex.cshtml",
+              "ToolTip": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Views\\ttsHome\\ttsIndex.cshtml",
+              "RelativeToolTip": "TranTienSon_231210892_de02\\Views\\ttsHome\\ttsIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:32:51.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Tts.cshtml.css",
+              "DocumentMoniker": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Views\\Shared\\_Tts.cshtml.css",
+              "RelativeDocumentMoniker": "TranTienSon_231210892_de02\\Views\\Shared\\_Tts.cshtml.css",
+              "ToolTip": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Views\\Shared\\_Tts.cshtml.css",
+              "RelativeToolTip": "TranTienSon_231210892_de02\\Views\\Shared\\_Tts.cshtml.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-24T04:04:52.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TranTienSon_231210892_de02\\Database\\AppDbContext.cs",
+              "ToolTip": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "TranTienSon_231210892_de02\\Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:45:53.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Program.cs",
+              "RelativeDocumentMoniker": "TranTienSon_231210892_de02\\Program.cs",
+              "ToolTip": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Program.cs",
+              "RelativeToolTip": "TranTienSon_231210892_de02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:27:35.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ttsIndex.cshtml",
+              "DocumentMoniker": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Views\\Home\\ttsIndex.cshtml",
+              "RelativeDocumentMoniker": "TranTienSon_231210892_de02\\Views\\Home\\ttsIndex.cshtml",
+              "ToolTip": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Views\\Home\\ttsIndex.cshtml",
+              "RelativeToolTip": "TranTienSon_231210892_de02\\Views\\Home\\ttsIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:20:25.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ttsAbout.cshtml",
+              "DocumentMoniker": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Views\\Home\\ttsAbout.cshtml",
+              "RelativeDocumentMoniker": "TranTienSon_231210892_de02\\Views\\Home\\ttsAbout.cshtml",
+              "ToolTip": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Views\\Home\\ttsAbout.cshtml",
+              "RelativeToolTip": "TranTienSon_231210892_de02\\Views\\Home\\ttsAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:12:19.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TranTienSon_231210892_de02\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Coding\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\TranTienSon_231210892_de02\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TranTienSon_231210892_de02\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:30:55.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
